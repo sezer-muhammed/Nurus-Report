@@ -1,6 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1678208374 "c:/Users/muham/Desktop/latex_test/test.tex" "test.pdf" "test" 1678208375 0
-  "c:/Users/muham/Desktop/latex_test/test.tex" 1678208374 3955 2f63e653302c019703903ba0dd8e1618 ""
+["pdflatex"] 1678208641 "c:/Users/muham/Desktop/latex_test/NurusReport.tex" "NurusReport.pdf" "NurusReport" 1678208642 0
+  "NurusReport.aux" 1678208642 847 4621a6f68802f1eee0df20c1403a7349 "pdflatex"
+  "NurusReport.tex" 1678208609 6157 99feda28979c5f01d94d58579df102bb ""
+  "c:/Users/muham/Desktop/latex_test/NurusReport.tex" 1678208609 6157 99feda28979c5f01d94d58579df102bb ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1678196820 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1678198564 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1678197866 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -28,10 +30,8 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1678206379 4662804 131178ccc9b2f4741a821427ce79dce1 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1678206536 7879888 3de4486bbbc708173f077655ccd20ce7 ""
   "c:/texlive/2022/texmf.cnf" 1678206355 713 614551405fc44b98efbf516466e3c909 ""
-  "test.aux" 1678208375 734 4f1acaabdfe2b528cc215f7e79dc57cb "pdflatex"
-  "test.tex" 1678208374 3955 2f63e653302c019703903ba0dd8e1618 ""
   (generated)
-  "test.aux"
-  "test.log"
-  "test.pdf"
+  "NurusReport.aux"
+  "NurusReport.log"
+  "NurusReport.pdf"
   (rewritten before read)
