@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.7)  10 MAR 2023 18:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.7)  10 MAR 2023 19:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -538,29 +538,29 @@ Package pdftex.def Info: linkedin.png  used on input line 58.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.85 \section{Factory Experience}
-                                  [1 <./linkedin.png>]
+l.82 \section{Sponsorship Agreement}
+                                     [1 <./linkedin.png>]
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.117 T
-       hroughout our time at NURUS, we also had the opportunity to learn abo... [2] [3] [4] (./NurusReport.aux)
+l.109 
+       [2] [3] [4] [5] (./NurusReport.aux)
 Package rerunfilecheck Info: File `NurusReport.out' has not changed.
 (rerunfilecheck)             Checksum: 0D2F7210E38B94B4A20DE6A0422C605C;1436.
  ) 
 Here is how much of TeX's memory you used:
- 19751 strings out of 476024
- 372900 string characters out of 5794017
- 1861382 words of memory out of 5000000
- 39862 multiletter control sequences out of 15000+600000
+ 19753 strings out of 476024
+ 372914 string characters out of 5794017
+ 1862382 words of memory out of 5000000
+ 39863 multiletter control sequences out of 15000+600000
  517176 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,89p,547b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,89p,575b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on NurusReport.pdf (6 pages, 114332 bytes).
+Output written on NurusReport.pdf (7 pages, 117397 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
+ 131 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
+ 18 named destinations out of 1000 (max. 500000)
  111 words of extra memory for PDF output out of 10000 (max. 10000000)
 

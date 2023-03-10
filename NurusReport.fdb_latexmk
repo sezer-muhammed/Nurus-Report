@@ -1,8 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1678462447 "d:/github/Nurus-Report/NurusReport.tex" "NurusReport.pdf" "NurusReport" 1678462449 0
-  "NurusReport.aux" 1678462449 1923 245a4f9efad55219e4ebfd6632ca238b "pdflatex"
-  "NurusReport.out" 1678462449 1436 0d2f7210e38b94b4a20de6a0422c605c "pdflatex"
-  "NurusReport.tex" 1678462445 11929 0fbb65e71c274f1da579658a4675a6b2 ""
+["pdflatex"] 1678464627 "d:/github/Nurus-Report/NurusReport.tex" "NurusReport.pdf" "NurusReport" 1678464628 0
+  "NurusReport.aux" 1678464628 1923 cac5fe26f29c4afd2ad46d1f4d6d2216 "pdflatex"
+  "NurusReport.out" 1678464628 1436 0d2f7210e38b94b4a20de6a0422c605c "pdflatex"
+  "NurusReport.tex" 1678464626 15601 b48742b75414c821478b4a908c5473a7 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1678196820 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1678198564 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1678197866 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -143,7 +143,7 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1678206379 4662804 131178ccc9b2f4741a821427ce79dce1 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1678206536 7879888 3de4486bbbc708173f077655ccd20ce7 ""
   "c:/texlive/2022/texmf.cnf" 1678206355 713 614551405fc44b98efbf516466e3c909 ""
-  "d:/github/Nurus-Report/NurusReport.tex" 1678462445 11929 0fbb65e71c274f1da579658a4675a6b2 ""
+  "d:/github/Nurus-Report/NurusReport.tex" 1678464626 15601 b48742b75414c821478b4a908c5473a7 ""
   "linkedin.png" 1678461286 9501 20d74d7fb3878461f31db6748a81ee94 ""
   "nurus_logo.png" 1678461842 8640 494cc5ac45c4acfd7020c4c103537eae ""
   (generated)
