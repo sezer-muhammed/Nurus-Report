@@ -4,19 +4,49 @@
 \usepackage{graphicx}
 \usepackage{blindtext}
 \usepackage{hyperref}
-\title{Sponsorship Report}
-\author{Muhammed Sezer / Şevval Belkıs Dikkaya}
-\date{\today}
+\usepackage[margin=3cm]{geometry}
+\usepackage{color}
+\usepackage{tikz}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{placeins}
+
+\newcommand{\logo}{\includegraphics[width=5cm]{nurus_logo.png}}
+
+\title{\Huge\textbf{Sponsorship Report}\\[1cm]\LARGE Project Results for NURUS}
+
+\author{\Large\textbf{Presented by:}\\[0.5cm] Muhammed Sezer \& Şevval Belkıs Dikkaya}
 
 \begin{document}
-
-\maketitle
+\begin{titlepage}
+    \centering
+    
+    % NURUS logo
+    \logo
+    
+    \vspace{1cm}
+    
+    % Title
+    \maketitle
+    
+    \vfill
+    
+    % Footer
+    \textbf{Contact Information:}\\[0.2cm]
+    Muhammed Sezer\\
+    Phone: 530-613-61-84\\
+    Email: muhammedsezer12@gmail.com
+\end{titlepage}
 
 \section{Introduction}
 
 In this report, we will detail our sponsorship agreement with NURUS, including the terms of the agreement, the benefits we received, and the results of our collaboration.
 \section{Our Team}
 
+\FloatBarrier
+
+\begin{table}[hbt!]
+\centering
 \begin{tabular}{|c|c|c|}
     \hline
     Name & Major & LinkedIn \\
@@ -28,12 +58,14 @@ In this report, we will detail our sponsorship agreement with NURUS, including t
     Zeynep Keleş & Electrical - Electronics Engineering & \href{https://www.linkedin.com/in/zeynep-bilge-keleş-7ba917255/}{\includegraphics[height=1.2em]{linkedin.png}} \\
     \hline
 \end{tabular}
+\caption[short]{Team Participants}
+\end{table}
 
 
-Our team has a strong background in AI, coding, design, and robotics, which allowed us to create a high-quality UAV for the Teknofest competition. Thanks to our hard work and dedication, we were able to secure first and second place in the AI in Transportation competition. We are proud to have been sponsored by NURUS for this competition, as well as for the Fighter UAV competition. This sponsorship allowed us to use the highest-quality materials and equipment to create our UAV.
+Our team has a strong background in AI, coding, design, and robotics, which allowed us to create a high-quality UAV for the Teknofest competition. As a result of our hard work and dedication, we were able to secure first and second place in the AI in Transportation competition. We are proud to have been sponsored by NURUS for this competition, as well as for the Fighter UAV competition. This sponsorship allowed us to use the highest-quality materials and equipment to create our UAV.
 
 At our core, we are a team that values sharing and encouraging others. We believe in the power of collaboration and helping each other succeed. It is this philosophy that has driven our success not only in the competition but also in our academic and professional careers.
-
+\FloatBarrier
 
 \section{Background}
 
@@ -112,12 +144,22 @@ Overall, our media coverage and public relations efforts helped to showcase the 
 
 The Betelgeuse UAV has been designed and developed by a team of skilled university students who have utilized cutting-edge technology and expertise to create a high-performance unmanned aircraft. With a wingspan of 270cm and a maximum takeoff weight of nearly 12KG, it is a powerful and agile aircraft that can maneuver quickly and efficiently.
 
-Equipped with two T-motor 2820 4S motors and the Pixhawk Cube Orange flight controller, the Betelgeuse UAV is a reliable and precise aircraft that can fly at a maximum speed of nearly 200 kmph and has a maximum flight time of nearly 1 hour. The Jetson Xavier NX companion computer and the Logitech Full HD Webcam allow for accurate detection and tracking of other UAVs in the air.
+Equipped with two T-motor 2826 4S motors and the Pixhawk Cube Orange flight controller, the Betelgeuse UAV is a reliable and precise aircraft that can fly at a maximum speed of nearly 200 kmph and has a maximum flight time of nearly 1 hour. The Jetson Xavier NX companion computer and the Logitech Full HD Webcam allow for accurate detection and tracking of other UAVs in the air.
 
 The Betelgeuse UAV's fully carbon body makes it lightweight and durable, allowing it to fly in most weather conditions. It has a range of up to 10 KM with 900 MHz telemetry and long-range WiFi for communication, making it suitable for a variety of applications.
 
 The primary objective of the Betelgeuse UAV is to track and follow other UAVs for a specific time period of 4 seconds. Its high-performance camera and advanced image processing capabilities enable it to track other UAVs accurately and with high precision. This makes it an ideal choice for applications such as aerial photography, surveillance, and search and rescue operations.
 
 Overall, the Betelgeuse UAV is a remarkable achievement of a university student team, and its advanced technology and precise performance make it an excellent choice for a range of applications.
+
+\section*{Special Thanks}
+
+I would like to express my deepest gratitude to the following people who have supported us throughout this project:
+
+\begin{itemize}
+  \item [Name 1] for their guidance and expertise in [specific area].
+  \item [Name 2] for their endless encouragement and support.
+  \item [Name 3] for their invaluable feedback and constructive criticism.
+\end{itemize}
 
 \end{document}
